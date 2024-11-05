@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Sukuna.bot
 
 on:
   push:
@@ -35,4 +35,4 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm run zokou
+        timeout 74520s npm run zokou
